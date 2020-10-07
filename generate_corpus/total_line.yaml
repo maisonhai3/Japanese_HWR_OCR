@@ -1,0 +1,14 @@
+pre_string:
+  text: ['合計', '** 合計', '合 計', '合計/', '現計', '現金計', '入金額', 'お買上合計', '小計', '金額', '支払合計', '通行料金', '駐車料金']
+
+hidden_string:
+  fraction: 0.1
+  text: '点'
+
+amount:
+  min_length: 1
+  max_length: 6
+  sign:
+    text: ['円', '￥']
+
+

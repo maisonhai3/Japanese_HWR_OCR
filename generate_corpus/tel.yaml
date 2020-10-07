@@ -1,0 +1,18 @@
+pre_string:
+  eng:
+    fraction: 0.4
+    text: ['TEL', 'Tel', 'tel', 'FAX', 'Fax', 'TEL - FAX']
+  jpn:
+    fraction: 0.6
+    text: ['東青森店', '武蔵境店', '電話','福島黒岩店', '白鳳店', '苅田店', '益子店', '新 潟 店', '熊 本 店', '掛 川 店', '静 岡 伊 勢 丹', '電 話 番 号', '農 川 東 店', '南 国 店', '上 中 店']
+
+hidden_string:
+  text: [':', ' ']
+
+num_tel:
+  min_length: 9
+  max_length: 12
+  sign:
+    fraction: 0.4
+
+
