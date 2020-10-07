@@ -160,6 +160,10 @@ def get_digit_image(digit_number, char_folder, char_label_df):
     iname = random.choice(digit_list)
     ipath = os.path.join(char_folder, iname)
 
+    # To debug
+    print('-----------------------------')
+    print(ipath)
+
     digit_image = cv2.imread(ipath, 0)
 
     # count amount of contour
