@@ -1,0 +1,1 @@
+--num_img 10 --length 15 --clip_max_chars 20 --chars_file ./data/chars/jpn.txt --config_file ./configs/test.yaml --fonts_list ./data/fonts_list/jpn.txt --bg_dir ./data/bg --corpus_dir ./data/corpus --corpus_mode list --strict True
